@@ -445,3 +445,19 @@ function numbersOfLetters(integer) {
 
 ### Day 15: 18th Feb 2023
 
+	
+#### Today's Progress:
+1. I did another React Accordion exercise, trying to mimic [Envato's values part](https://www.envato.com/about/careers/)
+
+#### Thoughts:
+**Accordion**
+1. I was nervous, not sure where to start. So I started to do the static version first by writting the JSX/HTML and building the ContentPanel component, without any states implementation.
+2. Then added the event handler.
+3. Added the props & states.
+4. Added the logic so only 1 item shows at a time. (The logic here is set the Show same as the title when clicked.)
+
+#### Link to work:
+1. [Envato Values React Accordion practice](https://codesandbox.io/s/envato-values-accordion-ywq6xd?file=/src/App.js)
+
+
+---
