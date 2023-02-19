@@ -467,3 +467,25 @@ function numbersOfLetters(integer) {
 
 
 ---
+
+## Day 16: 19th Feb 2023
+
+	
+### Today's Progress:
+1. Started with light coding challenges.
+
+### Thoughts:
+** Code Wars**
+1. Tried with my own way of approach. It was quick and easy but I'm not sure how to refactor it better. Checked the best solution, it was using [spread syntax](https://javascript.info/rest-parameters-spread) & reduce method! 
+```js
+let string = "text"
+[...string] = ['t', 'e', 'x', 't']
+```
+2. Tried it again myself. It worked!
+
+### Link to work:
+1. [Code Wars - ASCII Total](https://www.codewars.com/kata/572b6b2772a38bc1e700007a/solutions/javascript?filter=me&sort=best_practice&invalids=false)
+
+
+---
+
