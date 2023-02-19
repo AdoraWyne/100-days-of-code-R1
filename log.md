@@ -473,9 +473,12 @@ function numbersOfLetters(integer) {
 	
 ### Today's Progress:
 1. Started with light coding challenges.
+2. Learnt States as a Snapshot.
+3. Started react-calcultor mini project.
+
 
 ### Thoughts:
-** Code Wars**
+**Code Wars**
 1. Tried with my own way of approach. It was quick and easy but I'm not sure how to refactor it better. Checked the best solution, it was using [spread syntax](https://javascript.info/rest-parameters-spread) & reduce method! 
 ```js
 let string = "text"
@@ -483,9 +486,39 @@ let string = "text"
 ```
 2. Tried it again myself. It worked!
 
+**[State as Snapshot](https://beta.reactjs.org/learn/state-as-a-snapshot)**
+1. Setting state only changes it for the next render.
+2. A state variable’s value never changes within a render, even if its event handler’s code is asynchronous. 
+```js
+import { useState } from 'react';
+
+export default function Counter() {
+  const [number, setNumber] = useState(0);
+
+  return (
+    <>
+      <h1>{number}</h1>
+      <button onClick={() => {
+        setNumber(number + 5);
+        alert(number);
+      }}>+5</button>
+    </>
+  )
+}
+```
+- Even though, we have setNumber(number+5). But when the alert shows, it will still be 0. As this is the state value React remember when first render.
+- Its value was “fixed” when React “took the snapshot” of the UI by calling your component.
+
+
+**react-calculator**
+1. After learning some React, I decided to do an easy React project and found [this](https://www.youtube.com/watch?v=DgRrrOt0Vr8) from Web Simplified.
+2. Only did the HTML setup and a little bit CSS. Will continue tomorrow. 
+
+
 ### Link to work:
 1. [Code Wars - ASCII Total](https://www.codewars.com/kata/572b6b2772a38bc1e700007a/solutions/javascript?filter=me&sort=best_practice&invalids=false)
+2. [My react-calculator repo](https://github.com/AdoraWyne/react-calculator/tree/main)
 
 
 ---
-
+## Day 17: 20th Feb 2023
