@@ -372,6 +372,7 @@ function switcher(x){
 **Revisited**
 - I checked with Dylan today about this question. So... my understanding was wrong (compare 2 last element.length is WRONG!)
 - Dylan said "so the problem definition states: when the length of the string, eg 'five', is equal to the number it represents, eg: '5'.
+- My revisited attempt [Re-Attempt](https://www.codewars.com/kata/reviews/59a943a40ef2d0e067001249/groups/63f2fe32ccdcb90001573fe2)
 
 
 3. It was fine, but not for 1 test case where the input is 4.
@@ -522,3 +523,25 @@ export default function Counter() {
 
 ---
 ## Day 17: 20th Feb 2023
+
+
+	
+### Today's Progress:
+1. Revisted the question - [Numbers of Letters of Numbers](https://www.codewars.com/kata/599febdc3f64cd21d8000117/javascript) after listening to Dylan's explanation.
+
+
+### Thoughts:
+
+
+
+
+**react-calculator**
+
+
+
+### Link to work:
+
+
+
+---
+## Day 18: 21th Feb 2023
