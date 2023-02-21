@@ -523,25 +523,29 @@ export default function Counter() {
 
 ---
 ## Day 17: 20th Feb 2023
-
-
 	
 ### Today's Progress:
 1. Revisted the question - [Numbers of Letters of Numbers](https://www.codewars.com/kata/599febdc3f64cd21d8000117/javascript) after listening to Dylan's explanation.
 
 
 ### Thoughts:
-
-
-
-
 **react-calculator**
-
-
-
-### Link to work:
-
+1. Continue with this mini project.
 
 
 ---
 ## Day 18: 21th Feb 2023
+	
+### Today's Progress:
+1. Revisted the question - [Numbers of Letters of Numbers](https://www.codewars.com/kata/599febdc3f64cd21d8000117/javascript) after listening to Dylan's explanation.
+
+
+### Thoughts:
+**react-calculator**
+1. Continue with this mini project.
+
+### Link to work:
+
+---
+## Day 19: 22th Feb 2023
+
