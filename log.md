@@ -537,17 +537,20 @@ export default function Counter() {
 ## Day 18: 21th Feb 2023
 	
 ### Today's Progress:
-1. Revisted the question - [Numbers of Letters of Numbers](https://www.codewars.com/kata/599febdc3f64cd21d8000117/javascript) after listening to Dylan's explanation.
+1. Continued with react-calculator.
 
 
 ### Thoughts:
+**useReducer**
+1. This hook is to used for managing complex multiple states.
+2. Learn it by creating this [counter](https://codesandbox.io/s/usereducer-counter-learn-j3q1pg?file=/src/App.js)
+
 **react-calculator**
 1. Continue with this mini project. But I did not code for an hour today...
 
-**Interview Practice**
-1. Spent some time practicing interview.
 
 ### Link to work:
+1. [useReducer- Counter](https://codesandbox.io/s/usereducer-counter-learn-j3q1pg?file=/src/App.js)
 
 ---
 ## Day 19: 22th Feb 2023
