@@ -542,7 +542,10 @@ export default function Counter() {
 
 ### Thoughts:
 **react-calculator**
-1. Continue with this mini project.
+1. Continue with this mini project. But I did not code for an hour today...
+
+**Interview Practice**
+1. Spent some time practicing interview.
 
 ### Link to work:
 
