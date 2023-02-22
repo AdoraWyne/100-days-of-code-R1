@@ -537,17 +537,40 @@ export default function Counter() {
 ## Day 18: 21th Feb 2023
 	
 ### Today's Progress:
-1. Revisted the question - [Numbers of Letters of Numbers](https://www.codewars.com/kata/599febdc3f64cd21d8000117/javascript) after listening to Dylan's explanation.
+1. Continued with react-calculator.
+2. Also did a coding challenge at CodeWars.
 
 
 ### Thoughts:
+**useReducer**
+1. This hook is to used for managing complex multiple states.
+2. Learn it by creating this [counter](https://codesandbox.io/s/usereducer-counter-learn-j3q1pg?file=/src/App.js)
+
+**CodeWars**
+1. [Replace with Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da/javascript) is good challenge I can practice my regex again.
+2. The technique I approached this challenge are:
+- Use regex:
+```js
+const regex = /[A-Z]/gi // select all A-Z alphabet, glbally & case insensitive
+
+// I used match() first, match() method will return an array
+const result = text.match(regex)
+
+// I also used replace() in my last approach, replace method will return a new string, or all matches of the pattern replaced by the specified replacement.
+// Here saying, replace all non-alphabets to ""
+const result = text.replace(/[^A-Z]/gi, "")
+```
+- use ```charCodeAt(0)``` to find the character code. I used lower case alphabets so I minus 96
+- Then use ```map()``` method to iterate the array to replace the alphabet to charater code.
+- It is safe to say the text will not be an empty string.
+
 **react-calculator**
 1. Continue with this mini project. But I did not code for an hour today...
 
-**Interview Practice**
-1. Spent some time practicing interview.
 
 ### Link to work:
+1. [useReducer- Counter](https://codesandbox.io/s/usereducer-counter-learn-j3q1pg?file=/src/App.js)
+2. [Code Wars - Replace with Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da/solutions/javascript?filter=me&sort=best_practice&invalids=false)
 
 ---
 ## Day 19: 22th Feb 2023
