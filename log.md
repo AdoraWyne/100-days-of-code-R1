@@ -575,3 +575,29 @@ const result = text.replace(/[^A-Z]/gi, "")
 ---
 ## Day 19: 22th Feb 2023
 
+### Today's Progress:
+1. Had my first interview today! Then had a catch-up with coursemates.
+2. I felt a little bit sick afterward. So I did not code for an hour again...
+
+### Thoughts:
+1. Felt sick today.
+
+### Link to work:
+1. [Codewars- power the number without using ** or `Math.pow()`](https://www.codewars.com/kata/562926c855ca9fdc4800005b/solutions/javascript)
+---
+
+## Day 20: 23th Feb 2023, Thursday
+
+### Today's Progress:
+1. I did a coding challenge today and def coded more than 1 hour but I can't share the link.
+
+### Thoughts:
+1. Did not know `prompt()` only work on the browser. Read the article below.
+2. I can feel the fever today...
+
+### Link to work:
+1. [Get ser input on command line/terminal](https://www.codecademy.com/article/getting-user-input-in-node-js)
+---
+
+## Day 21: 24th Feb 2023, Friday
+
