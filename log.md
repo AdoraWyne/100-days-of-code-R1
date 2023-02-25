@@ -600,4 +600,4 @@ const result = text.replace(/[^A-Z]/gi, "")
 ---
 
 ## Day 21: 24th Feb 2023, Friday
-
+I was sick so I did not do coding today... I'm failed and I will restart the count again
