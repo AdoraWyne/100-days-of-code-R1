@@ -25,6 +25,7 @@ Was sick and in bed all day... :( I just want to get well soon!!!
 I will restart the count.
 
 </details>
+
 ---
 
 ### Day 1 - Monday, 27 Feb 2023
