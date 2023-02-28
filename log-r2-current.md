@@ -44,8 +44,12 @@ I will restart the count.
 ### Day 2 - Tueday, 28 Feb 2023
 
 **Today's Progress:**
+1. Started my day with CodeWars, of course! Kyu 6 and I solved in 20mins! 🤩 But I find a bit clueless when tried to refactoring the code. Need to do some research/study about this.
+
 **Thoughts:**
+
 **Link to work:** 
+1. [CodeWars - Counting Duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1/solutions/javascript)
 
 ---
 
