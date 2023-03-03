@@ -54,6 +54,8 @@ I will restart the count.
 
 ---
 
+### Day 3 - Wednesday, 01 Mar 2023
+
 **Today's Progress:**
 1. Was working all day * Did some codewars questions only.
 
@@ -61,4 +63,34 @@ I will restart the count.
 
 **Link to work:** 
 1. [CodeWars - Counting Duplicates](https://www.codewars.com/kata/563fb342f47611dae800003c/solutions/javascript)
+
+---
+
+### Day 4 - Thursday, 02 Mar 2023
+
+**Today's Progress:**
+- Continue with the testing Udemy course.
+- Prepared for behavioural questions.
+
+**Thoughts:**
+- I could not really focus on coding today. My mind was all about behavioural interview.
+
+**Link to work:** 
+N/A
+
+---
+
+### Day 5 - Friday, 03 Mar 2023
+
+**Today's Progress:**
+
+
+**Thoughts:**
+
+
+**Link to work:** 
+
+
+
+
 
