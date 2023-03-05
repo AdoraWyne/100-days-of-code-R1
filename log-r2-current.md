@@ -96,13 +96,16 @@ N/A
 ### Day 1 - Sunday, 05 Mar 2023
 
 **Today's Progress:**
-
+- Finally get into Spies & Mocks, but it's hard to understand :(
+- Need to watch the video again.
 
 **Thoughts:**
+- It's bit hard to grasp spies & mocks concept. 
 
 
 **Link to work:** 
-
+- Notes in my notion. 
+- Code in my VSCode.
 
 
 
