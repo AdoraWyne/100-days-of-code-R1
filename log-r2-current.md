@@ -24,8 +24,6 @@ Round 2 first thought: I was failed at day 21. I'll try my best for this round! 
 Was sick and in bed all day... :( I just want to get well soon!!! 
 I will restart the count.
 
-</details>
-
 ---
 
 ### Day 1 - Monday, 27 Feb 2023
@@ -41,6 +39,7 @@ I will restart the count.
 - No links to work. I worked the testing stuff on VS Code & wrote notes on Notion.
 
 ---
+
 ### Day 2 - Tueday, 28 Feb 2023
 
 **Today's Progress:**
@@ -77,10 +76,23 @@ I will restart the count.
 
 **Link to work:** 
 N/A
-
+ 
 ---
 
 ### Day 5 - Friday, 03 Mar 2023
+- I missed today, was doing OOP coding challenge and was watching Udemy course about prototype.
+- Then, was busying prepared for behavioural questions, practiced with Max, talked with AK. Then headed off to work for the rest of the day.
+- I have no execuse.
+
+### Day 6 - Saturday, 03 Mar 2023
+- IA-ing today. 
+- After IA, was watching Udemy course again for testing. Did some testing code. But I won't count today because I dont think that's 1 hour enough.
+
+</details>
+
+---
+
+### Day 1 - Sunday, 05 Mar 2023
 
 **Today's Progress:**
 
