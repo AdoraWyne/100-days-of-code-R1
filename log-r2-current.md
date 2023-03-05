@@ -1,5 +1,6 @@
 # 100 Days Of Code - Log
 <details>
+
 ### Saturday, 25 Feb 2023 (DELETED)
 
 Round 2 first thought: I was failed at day 21. I'll try my best for this round! DONT GIVE UP CHIN YING!!
