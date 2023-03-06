@@ -140,9 +140,39 @@ def greet()
 end
 ```
 
+- Had too much fun on writting code in different languages, so I tried another simple coding challenge- IF ELSE statement
+###### In TS:
+```ts
+const boolToWord = (bool: boolean): string => {
+ return bool ? "Yes" : "No"
+}
+```
+
+###### In Python:
+```python
+# My answer:
+def bool_to_word(boolean):
+ if boolean:
+     return 'Yes'
+ else:
+     return 'No'
+
+# But it can be:
+def bool_to_word(bool):
+  return "Yes" if bool else "No"
+```
+
+###### In Ruby:
+```ruby
+def greet bool
+ bool ? "Yes" : "No"
+end
+```
+
 
 **Link to work:** 
 - [Function 1 - hello world](https://www.codewars.com/kata/523b4ff7adca849afe000035/solutions/python)
+- [Convert boolean values to strings 'Yes' or 'No'](https://www.codewars.com/kata/53369039d7ab3ac506000467)
 
 
 ---
