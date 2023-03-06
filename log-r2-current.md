@@ -107,6 +107,58 @@ N/A
 - Notes in my notion. 
 - Code in my VSCode.
 
+---
+
+### Day 2 - Monday, 6 Mar 2023
+
+**Today's Progress:**
+- Had pair-programming with Dylan and realised how bad I am trying to explain my code. 
+- While tried to understand Spies & Mocks, I also jumped intn JS basic today a little bit. 
+- Learnt about a new JS data type - `bigInt`, `use strict`.
+- Wrote some test for super simple coding challenge and also in TS & Python & Ruby (my first Ruby code!)
+
+**Thoughts:**
+- I purposely chose a really simple coding challenge to practice my unit testing code, and also TS, Python. 
+- Then, I was like "why not Ruby?!". Had a quick look at Ruby function syntax.
+- The coding challenge was just to create a `greet` function to return 'hello world!'
+
+###### In TS:
+```ts
+function greet(): string {
+ return 'hello world!'
+}
+```
+###### In Python:
+```python
+def greet():
+ return 'hello world!'
+```
+###### In Ruby:
+```ruby
+def greet()
+ return 'hello world!'
+end
+```
+
+
+**Link to work:** 
+- [Function 1 - hello world](https://www.codewars.com/kata/523b4ff7adca849afe000035/solutions/python)
+
+
+---
+
+### Day  - day,  2023
+
+**Today's Progress:**
+
+
+**Thoughts:**
+
+
+**Link to work:** 
+
+
+---
 
 
 
