@@ -206,9 +206,10 @@ end
 > If you want to ensure that your HTML is valid and works across all devices, it's generally a good idea to follow the HTML specification as closely as possible. In this case, you could insert the **`<p>`** element inside the **`<body>`** element instead of after it.
 
 ### Thoughts:
+- Feel so good to go through the Flex course. I was able to enjoy music while reading the course material and did the lab exercises/homeworks.
 
 ### Link to work:
-
+- No link. All codes in my VS Code
 
 ---
 
