@@ -89,8 +89,6 @@ N/A
 - IA-ing today. 
 - After IA, was watching Udemy course again for testing. Did some testing code. But I won't count today because I dont think that's 1 hour enough.
 
-</details>
-
 ---
 
 ### Day 1 - Sunday, 05 Mar 2023
@@ -174,21 +172,64 @@ end
 - [Function 1 - hello world](https://www.codewars.com/kata/523b4ff7adca849afe000035/solutions/python)
 - [Convert boolean values to strings 'Yes' or 'No'](https://www.codewars.com/kata/53369039d7ab3ac506000467)
 
+</details>
 
 ---
 
-### Day  - day,  2023
+## Day 1 - Friday, 10 Mar 2023
 
-**Today's Progress:**
+### Round 4 Thought:
+- Can't believe I can't persist after the first round. Was focusing on interview and personal life. But Round 4 let's go! I will try my best!
+- Also realised my study has been jumping around here and there. For this round, I will put a target for myself for every 7 days and see how it goes. (Hope it helps me to complete the courses I want to learn!)
+
+### Target for 10 Mar 2023 - 16 Mar 2023
+**Main Focus**
+
+1. Vitest - Spies & Mock (Learning testing)
+2. Keeping up with Flex course - DOM (familiar with it again so I can help the students better)
+3. Spend 1 hour doing coding challenges (Maybe do it at the start of my day). If it's an easy one, try in TS, Python & Ruby. (Practice so my skill wont get rusty)
+
+**Later focus**
+1. Data Structure & Algorithm (to write better code in efficiency)
+2. Resume React (React is everywhere!)
+3. APIs (fundamental thing!)
 
 
-**Thoughts:**
+### Today's Progress:
+- DOM: Learnt new way to insert new element into HTML: `document.body.insertAdjacentElement("afterend", p)`
+- I experimented around and see what will happen if I added new <p> before or after <body>. If it still works!
+- This is what ChatGPT said:
+> The side effect of inserting the **`<p>`** element in this way is that it is not technically valid HTML according to the HTML specification, because elements are not allowed to be inserted directly after the **`<body>`** element. According to the HTML specification, only whitespace and comments are allowed in this position.
 
+> However, in practice, modern web browsers are often able to handle non-standard HTML like this without any issues. So while the code may work in your browser, it's not guaranteed to work in all browsers or on all devices.
 
-**Link to work:** 
+> If you want to ensure that your HTML is valid and works across all devices, it's generally a good idea to follow the HTML specification as closely as possible. In this case, you could insert the **`<p>`** element inside the **`<body>`** element instead of after it.
 
+### Thoughts:
+- Feel so good to go through the Flex course. I was able to enjoy music while reading the course material and did the lab exercises/homeworks.
+
+### Link to work:
+- No link. All codes in my VS Code
 
 ---
 
+## Day 2 - Saturday, 11 Mar 2023
 
+### Today's Progress:
+
+### Thoughts:
+
+### Link to work:
+
+--- 
+
+## Day  - day,  Mar 2023
+
+### Today's Progress:
+
+### Thoughts:
+
+### Link to work:
+
+--- 
 
