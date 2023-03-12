@@ -216,10 +216,34 @@ end
 ## Day 2 - Saturday, 11 Mar 2023
 
 ### Today's Progress:
+- Did flex course exercises & homework - focusing on Object & CSS.
+
+### Thoughts:
+- Feel good again about it.
+
+### Link to work:
+- No links.
+
+--- 
+
+## Day 3 - Sunday, 12 Mar 2023
+
+### Today's Progress:
 
 ### Thoughts:
 
 ### Link to work:
+
+--- 
+
+## Day 4 - Monday, 13 Mar 2023
+
+### Today's Progress:
+
+### Thoughts:
+
+### Link to work:
+
 
 --- 
 
@@ -230,6 +254,4 @@ end
 ### Thoughts:
 
 ### Link to work:
-
---- 
 
