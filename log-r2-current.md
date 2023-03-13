@@ -246,6 +246,7 @@ end
 ### Thoughts:
 
 ### Link to work:
+- [OOP: Thinkful - Object Drills: Quarks](https://www.codewars.com/kata/5882b052bdeafec15e0000e6/javascript)
 
 
 --- 
