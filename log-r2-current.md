@@ -229,20 +229,25 @@ end
 ## Day 3 - Sunday, 12 Mar 2023
 
 ### Today's Progress:
+- I tried the OOP: Help Grinch steal Christmas from JS programmers again cuz I was not familiar with it. After trying and understanding the logic, I'm much better now to understand `Date` object. 
 
 ### Thoughts:
+- Love the feeling of digging the code. 
 
 ### Link to work:
+- [Help Grinch steal Christmas from JS programmers](https://www.codewars.com/kata/63387232198a4c00286aa349/solutions/javascript?filter=me&sort=best_practice&invalids=false)
 
 --- 
 
 ## Day 4 - Monday, 13 Mar 2023
 
 ### Today's Progress:
+- Spent long time to figure out today's coding challenge. Eventually needed to look up the solution. (Only not sure about the swapping color method part). Had to use destructuring assignment.
 
 ### Thoughts:
 
 ### Link to work:
+- [OOP: Thinkful - Object Drills: Quarks](https://www.codewars.com/kata/5882b052bdeafec15e0000e6/javascript)
 
 
 --- 
