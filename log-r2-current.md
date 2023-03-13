@@ -242,6 +242,7 @@ end
 ## Day 4 - Monday, 13 Mar 2023
 
 ### Today's Progress:
+- Spent long time to figure out today's coding challenge. Eventually needed to look up the solution. (Only not sure about the swapping color method part). Had to use destructuring assignment.
 
 ### Thoughts:
 
