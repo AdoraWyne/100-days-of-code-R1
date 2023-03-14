@@ -249,6 +249,21 @@ end
 ### Link to work:
 - [OOP: Thinkful - Object Drills: Quarks](https://www.codewars.com/kata/5882b052bdeafec15e0000e6/javascript)
 
+--- 
+
+## Day 5 - Tuesday, 14 Mar 2023
+
+### Today's Progress:
+- Was going to do 1 OOP coding challenge but I could not solve it. TwT . I will try again tomorrow. 
+- Did some CSS revision: `position: relative, absolute` etc & flexbox! (that reminds me had panic attack when I first learned flexbox lmao, looking back now it was funny!)
+- Learnt something new about **Inline element - vertical alignment** but still need to look more into it.
+
+### Thoughts:
+- OOP! It's hard but I think I started to get a hang of it.
+
+### Link to work:
+- [Freggy Frog](https://flexboxfroggy.com/)
+- 8-IA/W4D1 folder - Did some CSS stuff there.
 
 --- 
 
@@ -259,4 +274,15 @@ end
 ### Thoughts:
 
 ### Link to work:
+
+--- 
+
+## Day  - day,  Mar 2023
+
+### Today's Progress:
+
+### Thoughts:
+
+### Link to work:
+
 
