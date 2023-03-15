@@ -267,6 +267,19 @@ end
 
 --- 
 
+## Day 6 - Wednesday, 15 Mar 2023
+
+### Today's Progress:
+- Only did this coding challenge today. It was kyu 7 but took me a while to finish it.
+
+### Thoughts:
+- Not feeling today...
+
+### Link to work:
+- [Isogram](https://www.codewars.com/kata/54ba84be607a92aa900000f1/javascript)
+
+--- 
+
 ## Day  - day,  Mar 2023
 
 ### Today's Progress:
