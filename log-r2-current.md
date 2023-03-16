@@ -280,17 +280,20 @@ end
 
 --- 
 
-## Day  - day,  Mar 2023
+## Day 7 - Thursday, 16 Mar 2023
 
 ### Today's Progress:
+- Watched Flexbox tutorial to understand more about `flex-basis`, `flex-grow`, `flex-shrink` and `order` as I wasnt not understand. 
 
 ### Thoughts:
+- Clear about that now. Maybe can utilise it in the future, esp in Tailwind!
 
 ### Link to work:
+- In my VS Code.
 
 --- 
 
-## Day 7 - day,  Mar 2023
+## Day - day,  Mar 2023
 
 ### Today's Progress:
 
