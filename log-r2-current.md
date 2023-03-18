@@ -291,6 +291,21 @@ end
 ### Link to work:
 - In my VS Code.
 
+
+
+--- 
+
+## Day 8 - Friday, 17 Mar 2023
+
+### Today's Progress:
+- Tried coding challenge on Codewars but with training Algorithms. 
+
+### Thoughts:
+- I was defeated! Could not solve. Still having error of running timeout.
+
+### Link to work:
+- [Mysterious Singularity Numbers](https://www.codewars.com/kata/6409aa6df4a0b773ce29cc3d/train/javascript)
+
 --- 
 
 ## Day - day,  Mar 2023
@@ -301,4 +316,13 @@ end
 
 ### Link to work:
 
+--- 
+
+## Day - day,  Mar 2023
+
+### Today's Progress:
+
+### Thoughts:
+
+### Link to work:
 
