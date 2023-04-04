@@ -329,7 +329,7 @@ end
 
 
 ### Today's Progress:
-- One of my ex-coursemate joined me today. We started Pyton together!
+- One of my ex-coursemate joined me today. We started Python together!
 - Learnt about basis stuffs like What is Python, its primitive data types, how to do loops, declaring variables, operators, etc.
 
 ### Thoughts:
@@ -341,7 +341,49 @@ end
 
 --- 
 
+## Day 2 - Tuesday, 4 Apr 2023
+
+<details>
+
+**Main Focus**
+
+1. Python Intro - GA Full-Time & Flex course 
+2. Spend 1 hour doing coding challenges (Maybe do it at the start of my day). If it's an easy one, try in TS, Python & Ruby. (Practice so my skill wont get rusty)
+
+**Later focus**
+1. Data Structure & Algorithm (to write better code in efficiency)
+2. Resume React (React is everywhere!)
+3. APIs (fundamental thing!)
+ </details>
+
+### Today's Progress:
+- How to install Python & how to enter Python 'REPL' on terminal, because I tried to share with my ex-coursemate yesterday and realised I forgot how to do it. 
+- Learnt how to create function in Python. 
+- Did more exercises in Python.
+- Redo the prime number, still a bit difficult but much better than last time.
+
+### Thoughts:
+- Felt this time is a lot easier than I first learned Python.
+
+### Link to work:
+- In VS Code.
+
+--- 
+
 ## Day - day,  Apr 2023
+
+<details>
+
+**Main Focus**
+
+1. Python Intro - GA Full-Time & Flex course 
+2. Spend 1 hour doing coding challenges (Maybe do it at the start of my day). If it's an easy one, try in TS, Python & Ruby. (Practice so my skill wont get rusty)
+
+**Later focus**
+1. Data Structure & Algorithm (to write better code in efficiency)
+2. Resume React (React is everywhere!)
+3. APIs (fundamental thing!)
+</details>
 
 ### Today's Progress:
 
@@ -353,15 +395,18 @@ end
 
 ## Day - day,  Apr 2023
 
-### Today's Progress:
+<details>
 
-### Thoughts:
+**Main Focus**
 
-### Link to work:
+1. Python Intro - GA Full-Time & Flex course 
+2. Spend 1 hour doing coding challenges (Maybe do it at the start of my day). If it's an easy one, try in TS, Python & Ruby. (Practice so my skill wont get rusty)
 
---- 
-
-## Day - day,  Apr 2023
+**Later focus**
+1. Data Structure & Algorithm (to write better code in efficiency)
+2. Resume React (React is everywhere!)
+3. APIs (fundamental thing!)
+</details>
 
 ### Today's Progress:
 
