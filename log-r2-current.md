@@ -172,8 +172,6 @@ end
 - [Function 1 - hello world](https://www.codewars.com/kata/523b4ff7adca849afe000035/solutions/python)
 - [Convert boolean values to strings 'Yes' or 'No'](https://www.codewars.com/kata/53369039d7ab3ac506000467)
 
-</details>
-
 ---
 
 ## Day 1 - Friday, 10 Mar 2023
@@ -306,9 +304,44 @@ end
 ### Link to work:
 - [Mysterious Singularity Numbers](https://www.codewars.com/kata/6409aa6df4a0b773ce29cc3d/train/javascript)
 
+</details>
+ 
 --- 
 
-## Day - day,  Mar 2023
+## Day 1 - Monday, 3 Apr 2023
+
+### Round 5 Thought:
+- I was slack last 2 weeks (because of some good news!). I coded here and there but not everyday and not very long hours per session.
+- Again, can't believe I can't persist after the 1st round. 
+- But Round 5 lezzgo! I will try my best!
+- Again, for this round, I will put a target for myself for every 7 days and see how it goes.
+
+### Target for 3 Apr 2023 - 9 Apr 2023
+**Main Focus**
+
+1. Python Intro - GA Full-Time & Flex course 
+2. Spend 1 hour doing coding challenges (Maybe do it at the start of my day). If it's an easy one, try in TS, Python & Ruby. (Practice so my skill wont get rusty)
+
+**Later focus**
+1. Data Structure & Algorithm (to write better code in efficiency)
+2. Resume React (React is everywhere!)
+3. APIs (fundamental thing!)
+
+
+### Today's Progress:
+- One of my ex-coursemate joined me today. We started Pyton together!
+- Learnt about basis stuffs like What is Python, its primitive data types, how to do loops, declaring variables, operators, etc.
+
+### Thoughts:
+- Felt good to start Python. Challenged my brain. 
+- Also guided my ex-coursemate. Pushed myself harder to understand every piece of code or knowledge I know about Python so I can explain better.
+
+### Link to work:
+- No link. All codes in my VS Code
+
+--- 
+
+## Day - day,  Apr 2023
 
 ### Today's Progress:
 
@@ -318,11 +351,22 @@ end
 
 --- 
 
-## Day - day,  Mar 2023
+## Day - day,  Apr 2023
 
 ### Today's Progress:
 
 ### Thoughts:
 
 ### Link to work:
+
+--- 
+
+## Day - day,  Apr 2023
+
+### Today's Progress:
+
+### Thoughts:
+
+### Link to work:
+
 
