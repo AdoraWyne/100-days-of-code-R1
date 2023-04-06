@@ -320,7 +320,6 @@ end
 **Main Focus**
 
 1. Python Intro - GA Full-Time & Flex course 
-2. Spend 1 hour doing coding challenges (Maybe do it at the start of my day). If it's an easy one, try in TS, Python & Ruby. (Practice so my skill wont get rusty)
 
 **Later focus**
 1. Data Structure & Algorithm (to write better code in efficiency)
@@ -348,7 +347,6 @@ end
 **Main Focus**
 
 1. Python Intro - GA Full-Time & Flex course 
-2. Spend 1 hour doing coding challenges (Maybe do it at the start of my day). If it's an easy one, try in TS, Python & Ruby. (Practice so my skill wont get rusty)
 
 **Later focus**
 1. Data Structure & Algorithm (to write better code in efficiency)
@@ -370,6 +368,31 @@ end
 
 --- 
 
+## Day 3 - Wednesdayday, 5 Apr 2023
+
+<details>
+
+**Main Focus**
+
+1. Python Intro - GA Full-Time & Flex course 
+
+**Later focus**
+1. Data Structure & Algorithm (to write better code in efficiency)
+2. Resume React (React is everywhere!)
+3. APIs (fundamental thing!)
+</details>
+
+### Today's Progress:
+- Finished Flex course exercise and HW. 
+
+### Thoughts:
+- The convo exercise was a bit tough. Did not know what to do at first, but I tried to solve 1 problem at a time then combined them all together later. 
+
+### Link to work:
+- VS Code
+
+--- 
+
 ## Day - day,  Apr 2023
 
 <details>
@@ -377,7 +400,6 @@ end
 **Main Focus**
 
 1. Python Intro - GA Full-Time & Flex course 
-2. Spend 1 hour doing coding challenges (Maybe do it at the start of my day). If it's an easy one, try in TS, Python & Ruby. (Practice so my skill wont get rusty)
 
 **Later focus**
 1. Data Structure & Algorithm (to write better code in efficiency)
@@ -400,7 +422,28 @@ end
 **Main Focus**
 
 1. Python Intro - GA Full-Time & Flex course 
-2. Spend 1 hour doing coding challenges (Maybe do it at the start of my day). If it's an easy one, try in TS, Python & Ruby. (Practice so my skill wont get rusty)
+
+**Later focus**
+1. Data Structure & Algorithm (to write better code in efficiency)
+2. Resume React (React is everywhere!)
+3. APIs (fundamental thing!)
+</details>
+
+### Today's Progress:
+
+### Thoughts:
+
+### Link to work:
+
+--- 
+
+## Day - day,  Apr 2023
+
+<details>
+
+**Main Focus**
+
+1. Python Intro - GA Full-Time & Flex course 
 
 **Later focus**
 1. Data Structure & Algorithm (to write better code in efficiency)
