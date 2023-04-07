@@ -368,7 +368,7 @@ end
 
 --- 
 
-## Day 3 - Wednesdayday, 5 Apr 2023
+## Day 3 - Wednesdday, 5 Apr 2023
 
 <details>
 
@@ -383,10 +383,35 @@ end
 </details>
 
 ### Today's Progress:
-- Finished Flex course exercise and HW. 
+- Finished Flex course exercise and HW Day 1. 
 
 ### Thoughts:
 - The convo exercise was a bit tough. Did not know what to do at first, but I tried to solve 1 problem at a time then combined them all together later. 
+
+### Link to work:
+- VS Code
+
+--- 
+
+## Day 4 - Thursday, 06 Apr 2023
+
+<details>
+
+**Main Focus**
+
+1. Python Intro - GA Full-Time & Flex course 
+
+**Later focus**
+1. Data Structure & Algorithm (to write better code in efficiency)
+2. Resume React (React is everywhere!)
+3. APIs (fundamental thing!)
+</details>
+
+### Today's Progress:
+- Finished some exercises on SEIR56 and Flex Unit-1 exercise. 
+
+### Thoughts:
+- n/a, they were fairly easy.
 
 ### Link to work:
 - VS Code
