@@ -108,7 +108,7 @@
 
 --- 
 
-## Day - day,  Apr 2023
+## Day 5 - Friday, 07 Apr 2023
 
 <details>
 
@@ -123,10 +123,14 @@
 </details>
 
 ### Today's Progress:
+- Learnt list (array) and dictionary (object) and slightly Python module part.
+- Did the rock, scissors & paper in Python too. 
 
 ### Thoughts:
+- Felt like it's much better than the 1st time I learned.
 
 ### Link to work:
+- VSCode.
 
 --- 
 
