@@ -162,7 +162,7 @@
 
 --- 
 
-## Day - day,  Apr 2023
+## Day 7 - Sunday, 09 Apr 2023
 
 <details>
 
@@ -177,10 +177,13 @@
 </details>
 
 ### Today's Progress:
+- Finished Flex W7D2 exercise. 
 
 ### Thoughts:
+- The exercise was alright. I tried to list down all the steps I need to do to train myself, and also better clarity as well (i.e. I know exactly what I need to do, or why I did that)
 
 ### Link to work:
+- VSCode.
 
 --- 
 
