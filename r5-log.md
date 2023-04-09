@@ -58,7 +58,7 @@
 
 --- 
 
-## Day 3 - Wednesdday, 5 Apr 2023
+## Day 3 - Wednesday, 5 Apr 2023
 
 <details>
 
@@ -134,6 +134,34 @@
 
 --- 
 
+## Day 6 - Saturday, 08 Apr 2023
+
+<details>
+
+**Main Focus**
+
+1. Python Intro - GA Full-Time & Flex course 
+
+**Later focus**
+1. Data Structure & Algorithm (to write better code in efficiency)
+2. Resume React (React is everywhere!)
+3. APIs (fundamental thing!)
+</details>
+
+### Today's Progress:
+- Learned about Python modules.
+- In summary, Python modules is just a Python file where you put all the reusable code in it.
+- In order to use it, you need to import it.
+- 2 types of modules- built-in modules & user-defined modules.
+
+### Thoughts:
+- Doing good so far. But... feel something wrong, like I'm repeating the same study pattern...
+
+### Link to work:
+- VSCode. 
+
+--- 
+
 ## Day - day,  Apr 2023
 
 <details>
@@ -175,4 +203,28 @@
 ### Thoughts:
 
 ### Link to work:
+
+--- 
+
+## Day - day,  Apr 2023
+
+<details>
+
+**Main Focus**
+
+1. Python Intro - GA Full-Time & Flex course 
+
+**Later focus**
+1. Data Structure & Algorithm (to write better code in efficiency)
+2. Resume React (React is everywhere!)
+3. APIs (fundamental thing!)
+</details>
+
+### Today's Progress:
+
+### Thoughts:
+
+### Link to work:
+
+
 
