@@ -187,6 +187,42 @@
 
 --- 
 
+## Day 8 - Monday, 10 Apr 2023
+
+<details>
+
+**Main Focus**
+
+1. Python Intro - GA Full-Time & Flex course 
+
+**Later focus**
+1. Data Structure & Algorithm (to write better code in efficiency)
+2. Resume React (React is everywhere!)
+3. APIs (fundamental thing!)
+</details>
+
+### Today's Progress:
+- Learn Strings methods & Lists in depth.
+
+### Thoughts:
+Something was blowing my mind:
+I have 2 lists and I need to combine them into 1 list calls `heroes`:
+```python
+planeteers = ['Earth', 'Wind', 'Captain Planet', 'Fire', 'Water']
+rangers = ['Red', 'Blue', 'Fuchsia', 'Pink', 'Yellow', 'Green', 'Black']
+
+# I was using extend() method but this is much better!
+heroes = [*planeteers, *rangers]
+
+# The asterisk * is used to unpack the elements of the lists, which means that the individual elements of each list will be included in the new list heroes without the list brackets.
+
+```
+
+### Link to work:
+- VS Code
+
+--- 
+
 ## Day - day,  Apr 2023
 
 <details>
