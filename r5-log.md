@@ -223,7 +223,7 @@ heroes = [*planeteers, *rangers]
 
 --- 
 
-## Day - day,  Apr 2023
+## Day 9 - Tuesday, 11 Apr 2023
 
 <details>
 
@@ -238,10 +238,12 @@ heroes = [*planeteers, *rangers]
 </details>
 
 ### Today's Progress:
+- Learnt `range` & `function` today. Did some exercises.
 
 ### Thoughts:
 
 ### Link to work:
+- VSCode
 
 --- 
 
