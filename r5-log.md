@@ -247,6 +247,35 @@ heroes = [*planeteers, *rangers]
 
 --- 
 
+## Day 10 - Wednesday, 12 Apr 2023
+
+<details>
+
+**Main Focus**
+
+1. Python Intro - GA Full-Time & Flex course 
+
+**Later focus**
+1. Data Structure & Algorithm (to write better code in efficiency)
+2. Resume React (React is everywhere!)
+3. APIs (fundamental thing!)
+</details>
+
+### Today's Progress:
+- Learnt how to read line by line in Python. 
+- Python has in-built method to read 2 types of files - text file and binary file.
+- `readlines()` & `readline()`, using along with `strip()` which to remove the `\n` at the end of each line.
+
+- Also redo the shopping cart exercise in a different way.
+
+### Thoughts:
+- It was chill.
+
+### Link to work:
+- VSCode.
+
+--- 
+
 ## Day - day,  Apr 2023
 
 <details>
