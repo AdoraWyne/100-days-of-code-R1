@@ -266,6 +266,36 @@ heroes = [*planeteers, *rangers]
 - Python has in-built method to read 2 types of files - text file and binary file.
 - `readlines()` & `readline()`, using along with `strip()` which to remove the `\n` at the end of each line.
 
+- Learnt new way to print with variable and also multiple lines: using `'''` and `format()`:
+```python
+a = 'a'
+b = 'b'
+c ='c'
+
+print('''
+Line 1: {},
+Line 2: {},
+Line 3: {}
+'''.format(a,b,c))
+
+# Output:
+#
+# Line 1: a,
+# Line 2: b,
+# Line 3: c
+# 
+
+# Example 2:
+print('''Line 1: {},
+Line 2: {},
+Line 3: {}'''.format(a,b,c))
+
+# Output:
+# Line 1: a,
+# Line 2: b,
+# Line 3: c
+```
+
 - Also redo the shopping cart exercise in a different way.
 
 ### Thoughts:
