@@ -306,7 +306,35 @@ Line 3: {}'''.format(a,b,c))
 
 --- 
 
-## Day - day,  Apr 2023
+## Day 11 - Thursday, 13 Apr 2023
+
+<details>
+
+**Main Focus**
+
+1. Python Intro - GA Full-Time & Flex course 
+
+**Later focus**
+1. Data Structure & Algorithm (to write better code in efficiency)
+2. Resume React (React is everywhere!)
+3. APIs (fundamental thing!)
+</details>
+
+### Today's Progress:
+- Did some flex course homework.
+- Studied what is [client server architecture](https://intellipaat.com/blog/what-is-client-server-architecture/)?
+- It's similar to what I ady knew about client-server stuff but added more:
+- What are the examples for client server architecture (networking computing model or client server network), it consists what components.\, the types.
+
+### Thoughts:
+- Feels like my Python skill is getting better
+
+### Link to work:
+- VSCode & Notion.
+
+--- 
+
+## Day 1 - day,  Apr 2023
 
 <details>
 
@@ -322,7 +350,9 @@ Line 3: {}'''.format(a,b,c))
 
 ### Today's Progress:
 
+
 ### Thoughts:
+
 
 ### Link to work:
 
