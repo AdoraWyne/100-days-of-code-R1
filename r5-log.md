@@ -334,6 +334,31 @@ Line 3: {}'''.format(a,b,c))
 
 --- 
 
+## Day 12 - Friday, 14 Apr 2023
+
+<details>
+
+**Main Focus**
+
+1. Python Intro - GA Full-Time & Flex course 
+
+**Later focus**
+1. Data Structure & Algorithm (to write better code in efficiency)
+2. Resume React (React is everywhere!)
+3. APIs (fundamental thing!)
+</details>
+
+### Today's Progress:
+- Did not do much code cuz been guiding students all day even though I did not have any class today.
+
+### Thoughts:
+
+
+### Link to work:
+- VS Code
+
+--- 
+
 ## Day 1 - day,  Apr 2023
 
 <details>
@@ -355,6 +380,5 @@ Line 3: {}'''.format(a,b,c))
 
 
 ### Link to work:
-
 
 
