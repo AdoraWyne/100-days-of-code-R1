@@ -359,6 +359,61 @@ Line 3: {}'''.format(a,b,c))
 
 --- 
 
+## Day 13 - Saturday, 15 Apr 2023
+
+<details>
+
+**Main Focus**
+
+1. Python Intro - GA Full-Time & Flex course 
+
+**Later focus**
+1. Data Structure & Algorithm (to write better code in efficiency)
+2. Resume React (React is everywhere!)
+3. APIs (fundamental thing!)
+</details>
+
+### Today's Progress:
+- Learned `try...except` in Python.
+```python
+try:
+    b = int('Vishal')
+    print(b)
+except:
+    print('Error') # will print this instead
+
+# # =======================================================
+
+try:
+    b = int('Vishal')
+    print(b)
+except Exception as e: # consider Exception as variable, 'as' is keyword
+    print(e) # invalid literal for int() with base 10: 'Vishal'
+    # print("Error, cant convert")
+    # print(Exception.args) # return : <attribute 'args' of 'BaseException' objects>
+    # print(Exception) # return : <class 'Exception'>, we should not use this
+```
+
+- Learned about web component:
+- For port: we normally don't see port number on website as 80, 443 - replaced by http, https.
+
+| Component        | Value      |
+| -------------   |:-------------:|
+| Scheme        | http |
+| Authority      | www.mywebsite.com    |
+| Port | 80 or 443      |
+| Path(to index.html resource) | /src/pages/index.html |
+| Parameters or Query Parameters | ?name=Vishal&age=36 |
+| Anchor | #some-element-id-in-html |
+
+### Thoughts:
+- Learned more about web components.
+
+### Link to work:
+- VSCode & Notion.
+
+--- 
+
 ## Day 1 - day,  Apr 2023
 
 <details>
@@ -380,5 +435,6 @@ Line 3: {}'''.format(a,b,c))
 
 
 ### Link to work:
+
 
 
