@@ -414,6 +414,41 @@ except Exception as e: # consider Exception as variable, 'as' is keyword
 
 --- 
 
+## Day 14 - Sunday, 16 Apr 2023
+
+<details>
+
+**Main Focus**
+
+1. Python Intro - GA Full-Time & Flex course 
+
+**Later focus**
+1. Data Structure & Algorithm (to write better code in efficiency)
+2. Resume React (React is everywhere!)
+3. APIs (fundamental thing!)
+</details>
+
+### Today's Progress:
+- HTTP: HyperText Transfer Protocol
+- A communication protocol between client & server over the internet or World Wide Web (WWW).
+- HTTP requests & responses.
+- Every HTTP request is stateless (use Local Storage, cookies, sessions to remember e.g. login detais for better user experience.)
+- HTTPS: data sent is encrypted.
+- HTTP Methods (Needless to say!)
+- HTTP Response Status Codes
+- Header: General (feel like similar to web components ^above), Request & Response
+- Body: Request & Response
+- HTTP/2: Reduce latency by enabling full request & response multiplexing.
+
+### Thoughts:
+- I'm always confused about this. Have been studying or watching related videos/material for so many times. 
+- Finally today I feel like I would be able to explain to someone although I'm still not familiar with the Header part.
+
+### Link to work:
+- Notion: Uncategorised Programming Concept & Knowlegde/HTTP
+
+--- 
+
 ## Day 1 - day,  Apr 2023
 
 <details>
